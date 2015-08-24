@@ -9,3 +9,4 @@ Option steps completed
  - formatting of currency with commas
 
 Demo Gif
+![alt tag](https://github.com/vizhang/codepath-1-calculator/blob/master/readme.gif)
